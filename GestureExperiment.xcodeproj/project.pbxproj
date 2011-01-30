@@ -43,7 +43,7 @@
 		B5D7803011862DFE002CB707 /* GestureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GestureViewController.h; sourceTree = "<group>"; };
 		B5D7803111862DFE002CB707 /* GestureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GestureViewController.m; sourceTree = "<group>"; };
 		B5D7803211862DFE002CB707 /* GestureViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = GestureViewController.xib; path = Resources/GestureViewController.xib; sourceTree = "<group>"; };
-		B5D7807211863023002CB707 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		B5D7807211863023002CB707 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = Resources/icon.png; sourceTree = "<group>"; };
 		B5D780CD11863CB2002CB707 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		B5D78153118646D2002CB707 /* screamHigh1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = screamHigh1.mp3; path = Resources/screamHigh1.mp3; sourceTree = "<group>"; };
 		B5D78154118646D2002CB707 /* screamHigh2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = screamHigh2.mp3; path = Resources/screamHigh2.mp3; sourceTree = "<group>"; };
